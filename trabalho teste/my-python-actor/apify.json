@@ -1,0 +1,7 @@
+{
+    "name": "my-python-actor",
+    "version": "0.0",
+    "buildTag": "latest",
+    "entryPoint": "src/__main__.py"
+  }
+  

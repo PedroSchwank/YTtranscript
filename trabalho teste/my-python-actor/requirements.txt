@@ -1,0 +1,3 @@
+apify
+openai
+youtube-transcript-api
